@@ -1,3 +1,28 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif"  />
+</div>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saad-rafi-96b833213/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="saadrafi81@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/saadrafi81" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100013412177979" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SaadRafi.SaadRafi&"  />
+</div>
+
 # ***Hey 🙋‍♂️ I'm Saad Al Athar Chowdhury***
 
 # 💫 About Me:
