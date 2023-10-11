@@ -40,14 +40,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadRafi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaadRafi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=bear&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SaadRafi&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5&order=3" height="230" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadrafi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadrafi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=bear&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=saadrafi&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5&order=3" height="230" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SaadRafi/SaadRafi/output/snake.svg" alt="Snake animation" />
 
 ###
 ### ✍️ Random Dev Quote
@@ -59,6 +58,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saadrafi&icon=7&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
