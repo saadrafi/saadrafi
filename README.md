@@ -1,5 +1,9 @@
+# ***Hey 🙋‍♂️ I'm Saad Al Athar Chowdhury***
+
 # 💫 About Me:
-🔭 I’m currently exploring IT sector<br>🤝 I’m looking for help with Competitive Programming<br>🌱 I’m currently learning MERN stack<br>⚡ Know about <br>      -Flutter<br>      -Android Development with Java<br>
+🔭 I’m currently exploring IT sector<br>🤝 I’m looking for help with Competitive Programming<br>🌱 I’m currently learning MERN stack<br>⚡ Know about 
+- Flutter    
+- Android Development with Java<br>
 
 
 ## 🌐 Socials:
@@ -15,8 +19,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saadrafi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
