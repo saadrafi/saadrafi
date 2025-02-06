@@ -26,7 +26,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently exploring IT sector<br>🤝 I’m looking for help with Competitive Programming<br>🌱 I’m currently learning MERN stack<br>⚡ Know about 
+🔭 I’m currently exploring Artificial Intelligence <br>🤝 I’m looking for help with Competitive Programming<br>⚡ Know about 
+- MERN stack
 - Flutter    
 - Android Development with Java<br>
 
@@ -55,7 +56,7 @@
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="center"/>
 
 ---
 
